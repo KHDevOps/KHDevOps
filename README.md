@@ -1,5 +1,14 @@
 ## Hi there, welcome to my GitHub profile👋 
 
+### About me
+
+My name is Leo Mendoza and I'm a DevOps Engineer with expertise in cloud infrasctructure, automation and observabilty.
+EPITA graduate passionate about building scalable and reliable systems.
+
+Currently seeking new opportunities to contribute to innovative projects and collaborative teams.
+
+You can find my projects below:
+
 <!--
 **KHDevOps/KHDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
