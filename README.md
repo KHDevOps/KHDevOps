@@ -1,14 +1,22 @@
 ## Hi there, welcome to my GitHub profile👋 
 
+<div align="center">
+  
 ### About me
 
 My name is Leo Mendoza and I'm a DevOps Engineer with expertise in cloud infrasctructure, automation and observabilty.
-
 EPITA graduate passionate about building scalable and reliable systems.
-
 Currently seeking new opportunities to contribute to innovative projects and collaborative teams.
 
-You can find my projects below:
+### 📧 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmdevops/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHDevOps)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leo.mendoza.pro@outlook.com)
+
+### 🚀 My projects
+
+</div>
 
 <!--
 **KHDevOps/KHDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
