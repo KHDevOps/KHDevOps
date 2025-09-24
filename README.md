@@ -3,6 +3,7 @@
 ### About me
 
 My name is Leo Mendoza and I'm a DevOps Engineer with expertise in cloud infrasctructure, automation and observabilty.
+
 EPITA graduate passionate about building scalable and reliable systems.
 
 Currently seeking new opportunities to contribute to innovative projects and collaborative teams.
