@@ -10,7 +10,7 @@ My name is Leo Mendoza and I'm a DevOps Engineer with expertise in cloud infrasc
 EPITA graduate passionate about building scalable and reliable systems.
 Currently seeking new opportunities to contribute to innovative projects and collaborative teams.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Currently seeking new opportunities to contribute to innovative projects and col
 
 </div>
 
-### 📧 Connect with me
+## 📧 Connect with me
 
 <div align="center">
 
